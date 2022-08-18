@@ -31,6 +31,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## link
+## Link
 
-[](https://www.patika.dev/tr)
+[www.patika.dev](https://www.patika.dev/tr)
